@@ -6,7 +6,7 @@ render () {
 
 return (
 
-<h1>RecipeCreator</h1>
+<h1>HEJ NU HAR JAG DÖTT</h1>
 
 
 )
